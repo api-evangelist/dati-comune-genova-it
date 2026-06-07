@@ -1,0 +1,11 @@
+name: Genoa Open Data
+url: https://raw.githubusercontent.com/api-evangelist/dati-comune-genova-it/refs/heads/main/review.yml
+created: '2026-06-07'
+modified: '2026-06-07'
+reviews:
+  - date: '2026-06-07'
+    rating: 4
+    summary: Live CKAN API verified (v2.6.8), ~163 datasets.
+    endpoints:
+      - url: https://dati.comune.genova.it/api/3/action/status_show
+        status: 200
