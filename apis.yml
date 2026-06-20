@@ -3,7 +3,7 @@ name: Genoa Open Data
 description: >-
   Genoa Open Data is a municipal government open-data portal for Italy running CKAN (~163 datasets).
 kind: government
-image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
 url: https://raw.githubusercontent.com/api-evangelist/dati-comune-genova-it/refs/heads/main/apis.yml
 tags:
   - Open Data
