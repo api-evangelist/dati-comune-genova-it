@@ -38,6 +38,8 @@ apis:
       - type: x-ckan-version
         value: '2.6.8'
 common:
+  - type: DomainSecurity
+    url: security/dati-comune-genova-it-domain-security.yml
   - type: Website
     url: https://dati.comune.genova.it
   - type: Documentation

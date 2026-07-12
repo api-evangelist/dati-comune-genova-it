@@ -1,0 +1,15 @@
+generated: '2026-07-11'
+method: probed
+source: live DNS/TLS/HTTP probes of apis.yml + OpenAPI hosts
+hosts:
+- host: dati.comune.genova.it
+  https: true
+  tls_version: TLSv1.3
+  cert_expires: Feb 18 11:58:43 2027 GMT
+  hsts: false
+domains:
+- domain: genova.it
+  dnssec: false
+  caa: []
+  spf: false
+  dmarc: false
