@@ -39,7 +39,7 @@ tags:
   - Municipal Government
   - Italy
 created: '2026-06-07'
-modified: '2026-06-07'
+modified: '2026-10-06'
 specificationVersion: '0.23'
 apis:
   - aid: dati-comune-genova-it:catalog
@@ -63,6 +63,8 @@ apis:
       - type: x-ckan-version
         value: '2.6.8'
 common:
+  - url: https://smart.comune.genova.it/rss.xml
+    type: BlogRSS
   - type: DomainSecurity
     url: security/dati-comune-genova-it-domain-security.yml
   - type: Website
