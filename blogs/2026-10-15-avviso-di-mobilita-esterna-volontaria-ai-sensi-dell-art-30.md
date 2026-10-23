@@ -1,0 +1,8 @@
+---
+title: "AVVISO DI MOBILITA’ ESTERNA VOLONTARIA, AI SENSI DELL’ART. 30 DEL D.LGS. N.165/2001, PER LA COPERTURA A TEMPO PIENO E INDETERMINATO DI N. 4 UNITA’ DI PERSONALE CON PROFILO PROFESSIONALE FUNZIONARIO ASSISTENTE SOCIALE."
+url: "https://smart.comune.genova.it/contenuti/avviso-di-mobilita%E2%80%99-esterna-volontaria-ai-sensi-dell%E2%80%99art-30-del-dlgs-n1652001-la-8"
+date: "2026-10-15"
+author: "Callegari Fabio B126330"
+feed_url: "https://smart.comune.genova.it/rss.xml"
+---
+AVVISO DI MOBILITA’ ESTERNA VOLONTARIA, AI SENSI DELL’ART. 30 DEL D.LGS. N.165/2001, PER LA COPERTURA A TEMPO PIENO E INDETERMINATO DI N.
